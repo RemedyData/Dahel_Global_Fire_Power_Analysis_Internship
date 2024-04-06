@@ -3,7 +3,7 @@ Dahel Consultant and Techies Internship: This is a project that entails the anal
 (*The picture below is gotten from chessbazaar.in Website*). 
 
 
-![image](https://github.com/RemedyData/Dahel_Techies_Chess_Game_Dashboard_Internship/assets/137626163/8a78d83a-3e2d-44d1-9afb-ccc0cf1df871)
+![image](https://github.com/RemedyData/Dahel_Global_Fire_Power_Analysis_Internship/assets/137626163/4ba1cc66-56a9-42e8-94ec-818cf4f9135b)
 
 
 ***Disclaimer:*** This is not a real company as we know this is a dataset compiled by Dahel Consultant Techies for Internship purposes. 
@@ -23,13 +23,28 @@ The goal of this analysis is to know:
 - The country with the most energy self-sufficiency
 - The continent with the most Aircraft strength compared to other continents.
 - The most populated continent
-- The country with the moat active military personnel compared to other countries.
+- The country with the most active military personnel compared to other countries.
   
 ## Skills and Concepts Demonstrated:
 
 - Tableau concepts like:
 
-
+  - Data Connection:Connecting to various data sources such as Excel files, CSV files
+  - Data Preparation: Cleaning and transforming data using Tableau, Handling missing values, data type conversions, and other data cleaning tasks.
+    Creating calculated fields to derive new insights or perform calculations on the data.
+  - Data Visualization: Building visualizations such as bar charts, bubble chart, scatter plots, heat maps, treemaps, histograms, and more to represent data. Using dual-axis charts, and 
+    stacked charts to compare multiple measures or dimensions effectively. Applying filters, parameters, and sets to interactively explore and drill down into data subsets.
+  - Dashboard Creation: Designing interactive dashboards by combining multiple visualizations, filters, and other elements onto a single canvas. Adding interactivity to dashboards using 
+    actions, filters, and highlight actions to facilitate exploration and analysis. Optimizing dashboard layout and design for clarity and usability.
+  - Advanced Analytics: Performing statistical analysis within Tableau using built-in functions and capabilities (e.g., trend lines, reference lines, forecasting). Conducting spatial 
+    analysis by visualizing geographic data and using spatial calculations. Utilizing clustering, regression analysis, and other advanced analytics techniques for deeper insights.
+  - Mapping: Creating maps to visualize geographic data using built-in geographic roles or custom latitude-longitude data. Customizing maps with various map layers, backgrounds, and map 
+    styles. Using spatial analysis tools to perform geographic analysis and create spatial visualizations.
+  - Calculations and Expressions: Writing calculated fields and calculated measures using Tableau's formula language to perform complex calculations. Using table calculations to compute 
+    values based on the data displayed in a visualization. Implementing level of detail (LOD) expressions to control the granularity of calculations.
+  - Data Exploration and Interactivity: Enabling interactivity in visualizations by allowing users to filter, highlight, and drill down into data dynamically. Utilizing tooltips, 
+    parameter actions, and dashboard actions to enhance user experience and provide context-sensitive information. Implementing quick table calculations, sorting, and ranking to explore 
+    data trends and patterns.
 
 
 
@@ -60,6 +75,8 @@ The dataset for the work is gotten from Dahel Consultant Techies. It consists of
 
 
 
+
+
 ![Dahel_Global_Fire_Model](https://github.com/RemedyData/Dahel_Global_Fire_Power_Analysis_Internship/assets/137626163/bf758356-4804-471b-9d4c-066cd830532d)
 
 
@@ -79,12 +96,14 @@ I arrived at a report with a single dashboard consisting of different visuals su
 
 The dashboard conveys information about the following key areas:
 
-- 
-- 
-- 
-- 
-- 
-
+- country with the most index power
+- country with the highest railway infrastructure coverage
+- country with the highest budget allocated by the country for defense and military expenditures.
+- country with the most energy self-sufficiency
+- continent with the most Aircraft strength compared to other continents.
+- The most populated continent
+- country with the most active military personnel compared to other countries.
+  
 
 
 ![Dahel_Global_Fire](https://github.com/RemedyData/Dahel_Global_Fire_Power_Analysis_Internship/assets/137626163/cb3f9deb-7b75-4faa-b7c1-20cccb997f14)
