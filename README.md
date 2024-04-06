@@ -1,6 +1,6 @@
 # Dahel_Global_Fire_Power_Analysis_Internship
 Dahel Consultant and Techies Internship: This is a project that entails the analysis of the Global Fire Power
-(*The picture below is gotten from chessbazaar.in Website*). 
+(*The picture below is gotten from Ukrinform Website*). 
 
 
 ![image](https://github.com/RemedyData/Dahel_Global_Fire_Power_Analysis_Internship/assets/137626163/4ba1cc66-56a9-42e8-94ec-818cf4f9135b)
