@@ -90,7 +90,7 @@ The dataset for the work is gotten from Dahel Consultant Techies. It consists of
 ## Data Analysis and Visualization:
 
 Several expressions and functions were made to arrive at the desired KPI or Metrics.
-I arrived at a report with a single dashboard consisting of different visuals such as bar chart, doughnut chart, stacked bouble chart, and KPIs, giving the summary of the insights gained into the company's performance.
+I arrived at a report with a single dashboard consisting of different visuals such as bar chart, doughnut chart, stacked bouble chart, and KPIs, giving the summary of the insights gained into the global power-fire status.
 
 ## Features of the Report:
 
