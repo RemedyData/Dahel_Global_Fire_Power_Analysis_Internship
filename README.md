@@ -70,7 +70,7 @@ The dataset for the work is gotten from Dahel Consultant Techies. It consists of
 - Data derived from an Excel merged cell is changed to value in the data source.
 
 **Step 4:**				
-- Data is ignored and not included as part of your data source.					
+- Data is ignored and not included as part of the data source.					
  					
 
 
@@ -160,4 +160,6 @@ personnel.
 
 ### Thank you for reading.
 
-I am open for entry-level to mid-level data analyst role.
+I am open for data anlalyst role.
+
+Let us have discussion about your company and industry now!.
